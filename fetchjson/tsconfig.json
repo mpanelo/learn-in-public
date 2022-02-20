@@ -1,0 +1,21 @@
+{
+  "ts-node": {
+    "cwd": "/home/mpanelo/github/learn-in-public/fetchjson",
+    "projectSearchDir": "/home/mpanelo/github/learn-in-public/fetchjson",
+    "project": "/home/mpanelo/github/learn-in-public/fetchjson/tsconfig.json"
+  },
+  "compilerOptions": {
+    "lib": [
+      "es2021",
+      "DOM"
+    ],
+    "sourceMap": true,
+    "inlineSourceMap": false,
+    "inlineSources": true,
+    "declaration": false,
+    "noEmit": false,
+    "outDir": "./.ts-node",
+    "target": "es5",
+    "module": "commonjs"
+  }
+}
