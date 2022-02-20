@@ -1,1 +1,1 @@
-# learninpublic
+# Learn in Public
