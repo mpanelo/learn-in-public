@@ -15,10 +15,6 @@ let truths: boolean[] = [true, false, true, false];
 
 colors.forEach((color) => console.log(color));
 
-class Car {}
-
-let car: Car = new Car();
-
 // object literals
 let point: { x: number; y: number } = {
   x: 10,
@@ -33,7 +29,7 @@ const logNumber: (i: number) => void = (i: number) => {
 /* freestyling */
 let numbas: number[] = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
-const sum = numbers.reduce((prev, curr) => {
+const sum = numbas.reduce((prev, curr) => {
   return prev + curr;
 }, 0);
 
@@ -62,8 +58,8 @@ for (let i = 0; i < words.length; i++) {
 numbas = [-1, 20, 0];
 let numberAboveZero: boolean | number = false;
 
-for (let i = 0; i < numbers.length; i++) {
-  if (numbers[i] > 0) {
-    numberAboveZero = numbers[i];
+for (let i = 0; i < numbas.length; i++) {
+  if (numbas[i] > 0) {
+    numberAboveZero = numbas[i];
   }
 }
