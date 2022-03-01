@@ -1,21 +1,21 @@
-export class Sorter {
-  constructor(public collection: /* TODO: fix me */) {}
+import { CharactersCollection } from "./CharactersCollection";
+import { LinkedList } from "./LinkedList";
+import { NumbersColection } from "./NumbersCollection";
+import { Sorter } from "./Sorter";
 
-  public sort(): void {
-    const { length } = this.collection;
-
-    for (let i = 0; i < length; i++) {
-      for (let j = 0; j < length - i - 1; j++) {
-        if (this.collection[j] > this.collection[j + 1]) {
-          const temp = this.collection[j];
-          this.collection[j] = this.collection[j + 1];
-          this.collection[j + 1] = temp;
-        }
-      }
-    }
-  }
-}
-
-const sorter = new Sorter([10, 3, -5, 0]);
+const sorter = new Sorter(new NumbersColection([10000, 3, -5, 0]));
 sorter.sort();
-console.log(sorter.collection);
+console.log(sorter.sortable);
+
+sorter.sortable = new CharactersCollection("Xaaa");
+sorter.sort();
+console.log(sorter.sortable);
+
+const linkedList = new LinkedList();
+linkedList.add(500);
+linkedList.add(-10);
+linkedList.add(4);
+linkedList.add(66);
+sorter.sortable = linkedList;
+sorter.sort();
+linkedList.print();
