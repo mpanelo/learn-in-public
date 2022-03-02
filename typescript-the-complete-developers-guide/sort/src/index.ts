@@ -3,6 +3,7 @@ import { LinkedList } from "./LinkedList";
 import { NumbersColection } from "./NumbersCollection";
 import { Sorter } from "./Sorter";
 
+// TODO make Sorter an abstract class and sort() a common method for children classes
 const sorter = new Sorter(new NumbersColection([10000, 3, -5, 0]));
 sorter.sort();
 console.log(sorter.sortable);
