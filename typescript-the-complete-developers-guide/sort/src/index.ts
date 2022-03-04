@@ -3,20 +3,22 @@ import { LinkedList } from "./LinkedList";
 import { NumbersColection } from "./NumbersCollection";
 import { Sorter } from "./Sorter";
 
-// TODO make Sorter an abstract class and sort() a common method for children classes
-const sorter = new Sorter(new NumbersColection([10000, 3, -5, 0]));
-sorter.sort();
-console.log(sorter.sortable);
+let collection: Sorter = new NumbersColection([32, -10, -99, 99, 1, 2]);
+collection.sort();
+console.log(collection);
 
-sorter.sortable = new CharactersCollection("Xaaa");
-sorter.sort();
-console.log(sorter.sortable);
+collection = new CharactersCollection("Xaaa");
+collection.sort();
+console.log(collection);
 
 const linkedList = new LinkedList();
+
+// Populate Linked List
 linkedList.add(500);
 linkedList.add(-10);
 linkedList.add(4);
 linkedList.add(66);
-sorter.sortable = linkedList;
-sorter.sort();
+
+linkedList.sort();
+
 linkedList.print();

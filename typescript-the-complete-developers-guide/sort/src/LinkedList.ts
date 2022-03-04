@@ -1,4 +1,6 @@
-export class LinkedList {
+import { Sorter } from "./Sorter";
+
+export class LinkedList extends Sorter {
   head: Node | null = null;
 
   compare(leftIndex: number, rightIndex: number): boolean {

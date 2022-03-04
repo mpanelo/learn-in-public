@@ -1,5 +1,9 @@
-export class NumbersColection {
-  constructor(public data: number[]) {}
+import { Sorter } from "./Sorter";
+
+export class NumbersColection extends Sorter {
+  constructor(public data: number[]) {
+    super();
+  }
 
   compare(leftIndex: number, rightIndex: number): boolean {
     return this.data[leftIndex] > this.data[rightIndex];
