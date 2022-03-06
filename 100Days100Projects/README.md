@@ -1,4 +1,4 @@
-# #100Days100Projects
+# 100 Days 100 Projects
 
 I wrote about [why I started this challenge](https://maupanelo.com/posts/im-committing-to-a-new-challenge-starting-today/).
 
