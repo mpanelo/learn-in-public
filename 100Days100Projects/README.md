@@ -6,7 +6,7 @@ tl;dr - I want to be a better front-end developer and I was inspired by [Florin 
 
 I started this challenge on March 1, 2022. 
 
-I'm also taking inspiration from Florin's work because I'm a newbie. When Florin started this challenge, he was a way more skilled developer than I am.
+I'm also taking inspiration from Florin's work because I'm a newbie, and I need some hand-holding.
 
 | Day | Project |
 |-----|---------|
