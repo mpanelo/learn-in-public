@@ -13,6 +13,7 @@ I'm also taking inspiration from Florin's work because I'm a newbie, and I need 
 | 01  | [Love button](https://codepen.io/maupanelo/full/vYWQVYv) |
 | 02  | [Calendar](https://codepen.io/maupanelo/full/QWOzdjq)    |
 | 03  | [Discord-inspired navbar](https://codepen.io/maupanelo/full/JjOxXxB)       |
-| 04  | [Basic todo app](https://codepen.io/maupanelo/full/xxPMoBN)               |
+| 04  | [Basic todo app](https://codepen.io/maupanelo/full/xxPMoBN)                |
 | 05  | ["Get in Touch" panel](https://codepen.io/maupanelo/full/xxPBXOg)          |
 | 06  | ["Get in Touch" panel finished](https://codepen.io/maupanelo/full/JjOzVmY) |
+| 07  | [Flexbox training and basic CSS art](https://codepen.io/maupanelo/full/dyZLxaG) |
