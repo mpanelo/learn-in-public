@@ -1,28 +1,15 @@
 import { CsvFileReader } from "./CsvFileReader";
+import { MatchReader } from "./MatchReader";
+import { MatchResult } from "./MatchResult";
 
-const reader = new CsvFileReader("football.csv");
-reader.read();
+const csvFileReader = new CsvFileReader("football.csv");
+const matchReader = new MatchReader(csvFileReader);
+
+matchReader.load();
+
 let manUnitedWins = 0;
 
-enum MatchResult {
-  HomeWin = "H",
-  AwayWin = "A",
-  Draw = "D",
-}
-
-const printMatchResult = (match: string[]): MatchResult => {
-  if (match[5] === MatchResult.HomeWin) {
-    return MatchResult.HomeWin;
-  }
-
-  if (match[5] === MatchResult.AwayWin) {
-    return MatchResult.AwayWin;
-  }
-
-  return MatchResult.Draw;
-};
-
-for (let match of reader.data) {
+for (let match of matchReader.matches) {
   if (match[1] === "Man United" && match[5] === MatchResult.HomeWin) {
     manUnitedWins++;
   } else if (match[2] === "Man United" && match[5] === MatchResult.AwayWin) {
