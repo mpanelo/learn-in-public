@@ -1,10 +1,11 @@
-# 100 Days 100 Projects
+# 30 Days 30 Projects
+
+## Update:
+I'm changing the challenge from 100 days to 30 days. 100 days is too extreme for me, but I still want a challenge, and 30 days is the perfect fit for me.
 
 I wrote about [why I started this challenge](https://maupanelo.com/posts/im-committing-to-a-new-challenge-starting-today/).
 
 tl;dr - I want to be a better front-end developer and I was inspired by [Florin Pop](https://www.florin-pop.com/blog/2019/09/100-days-100-projects/).
-
-I started this challenge on March 1, 2022. 
 
 I'm also taking inspiration from Florin's work because I'm a newbie, and I need some hand-holding.
 
@@ -17,3 +18,4 @@ I'm also taking inspiration from Florin's work because I'm a newbie, and I need 
 | 05  | ["Get in Touch" panel](https://codepen.io/maupanelo/full/xxPBXOg)          |
 | 06  | ["Get in Touch" panel finished](https://codepen.io/maupanelo/full/JjOzVmY) |
 | 07  | [Flexbox training and basic CSS art](https://codepen.io/maupanelo/full/dyZLxaG) |
+| 08  | [Pokedex](https://codepen.io/maupanelo/full/jOajPrK) |
