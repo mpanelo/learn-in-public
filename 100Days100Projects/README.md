@@ -21,3 +21,4 @@ Side note: I'm taking inspiration from Florin's work because I'm a newbie, and I
 | 06  | ["Get in Touch" panel finished](https://codepen.io/maupanelo/full/JjOzVmY) |
 | 07  | [Flexbox training and basic CSS art](https://codepen.io/maupanelo/full/dyZLxaG) |
 | 08  | [Pokedex](https://codepen.io/maupanelo/full/jOajPrK) |
+| 09  | [Loading Animation](https://codepen.io/maupanelo/full/abVeoXO) |
