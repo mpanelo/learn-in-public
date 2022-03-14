@@ -22,3 +22,7 @@ Side note: I'm taking inspiration from Florin's work because I'm a newbie, and I
 | 07  | [Flexbox training and basic CSS art](https://codepen.io/maupanelo/full/dyZLxaG) |
 | 08  | [Pokedex](https://codepen.io/maupanelo/full/jOajPrK) |
 | 09  | [Loading Animation](https://codepen.io/maupanelo/full/abVeoXO) |
+| 10  | [Animation Playground](https://codepen.io/maupanelo/full/qBpWNJr)
+| 11  | [Navbar in TailwindCSS](https://codepen.io/maupanelo/full/zYpOyQp) |
+| 12  | [Jeen-Yuhs](https://codesandbox.io/s/jeen-yuhs-k4fovv?file=/src/index.js:560-565)
+| 13  | [Activity Generator](https://codepen.io/maupanelo/full/VwyYvJp) |
