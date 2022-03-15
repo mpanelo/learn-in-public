@@ -10,7 +10,7 @@ Here's a ~250 word explanation on [why I'm doing this.](https://maupanelo.com/po
 
 Side note: I'm taking inspiration from Florin's work because I'm a newbie, and I need some hand-holding.
 
-## CodePen Projects
+## Projects
 | Day | Project |
 |-----|---------|
 | 01  | [Love button](https://codepen.io/maupanelo/full/vYWQVYv) |
