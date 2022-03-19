@@ -27,5 +27,6 @@ Side note: I'm taking inspiration from Florin's work because I'm a newbie, and I
 | 12  | [Jeen-Yuhs](https://codesandbox.io/s/jeen-yuhs-k4fovv?file=/src/index.js:560-565)
 | 13  | [Activity Generator](https://codepen.io/maupanelo/full/VwyYvJp) |
 | 14  | [Typewriter](https://codepen.io/maupanelo/full/NWXPVXG) |
-| 15  | [Supabase SaaS](https://github.com/mpanelo/supabase-saas)
-| 16  | [Day Off 🙂](https://twitter.com/maupanelo/status/1504713012682231810)
+| 15  | [Coin Spin Animation](https://codepen.io/maupanelo/full/LYeVqKg) |
+| 16  | [Supabase SaaS](https://github.com/mpanelo/supabase-saas)
+| 17  | [Day Off 🙂](https://twitter.com/maupanelo/status/1504713012682231810)
