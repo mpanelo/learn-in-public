@@ -32,3 +32,4 @@ Side note: I'm taking inspiration from Florin's work because I'm a newbie, and I
 | 17  | [Day Off 🙂](https://twitter.com/maupanelo/status/1504713012682231810)
 | 18  | [People Directory](https://codepen.io/maupanelo/full/zYpqEJr)
 | 19  | [Learning SASS](https://codepen.io/maupanelo/full/MWrjJPK)
+| 20-22 | [Supabase SaaS cont'd](https://twitter.com/maupanelo/status/1506135319564873729)
