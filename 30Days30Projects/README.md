@@ -33,3 +33,4 @@ Side note: I'm taking inspiration from Florin's work because I'm a newbie, and I
 | 18  | [People Directory](https://codepen.io/maupanelo/full/zYpqEJr)
 | 19  | [Learning SASS](https://codepen.io/maupanelo/full/MWrjJPK)
 | 20-22 | [Supabase SaaS cont'd](https://twitter.com/maupanelo/status/1506135319564873729)
+| 23  | [Photos of Doggos](https://codepen.io/maupanelo/full/RwxKbMP)
