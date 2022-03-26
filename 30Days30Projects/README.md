@@ -35,3 +35,4 @@ Side note: I'm taking inspiration from Florin's work because I'm a newbie, and I
 | 20-22 | [Supabase SaaS cont'd](https://twitter.com/maupanelo/status/1506135319564873729)
 | 23  | [Photos of Doggos](https://codepen.io/maupanelo/full/RwxKbMP)
 | 24  | Day off
+| 25  | [NextJS Project - Up and running on Vercel](https://fjallbo.vercel.app/)
