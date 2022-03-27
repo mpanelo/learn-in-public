@@ -36,3 +36,4 @@ Side note: I'm taking inspiration from Florin's work because I'm a newbie, and I
 | 23  | [Photos of Doggos](https://codepen.io/maupanelo/full/RwxKbMP)
 | 24  | Day off
 | 25  | [NextJS Project - Up and running on Vercel](https://fjallbo.vercel.app/)
+| 26  | [NextJS Project - Create a basic navbar](https://fjallbo.vercel.app/)
