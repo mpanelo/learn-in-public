@@ -1,5 +1,6 @@
 import { useEditor, EditorContent } from '@tiptap/react';
 import StarterKit from '@tiptap/starter-kit';
+import { useEffect } from 'react';
 
 const Tiptap = () => {
   const editor = useEditor({
@@ -9,10 +10,15 @@ const Tiptap = () => {
         class: 'prose prose-zinc prose-sm sm:prose-base lg:prose-lg xl:prose-2xl m-5 focus:outline-none',
       },
     },
-    content: localStorage.getItem('content'),
+    onCreate: ({ editor }) => {
+      try {
+        const content = JSON.parse(window.localStorage.getItem('content'));
+        editor.commands.setContent(content);
+      } catch (e) {}
+    },
     onUpdate: ({ editor }) => {
       const json = editor.getJSON();
-      localStorage.setItem('content', json);
+      window.localStorage.setItem('content', JSON.stringify(json));
     },
   });
 
